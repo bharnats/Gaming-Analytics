@@ -1,6 +1,7 @@
 **Objective:**
-Deep dive into the purchase data for the fantasy game ‘Heroes of Pymoli’ launched by an Independent gaming company and provide them with useful business insights to improve revenues and create market differentiation 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, generate a report that breaks down the game's purchasing data into meaningful insights.
+Deep dive into the purchase data for the fantasy game ‘Heroes of Pymoli’ launched by an Independent gaming company and provide them with useful business insights to improve revenues and create market differentiation.
+
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
 **Observable Trends and Conclusions Derived:**
   * Of the 1163 active players, the vast majority are male (80%). There also exists, a smaller, but notable proportion of female players (17%).
