@@ -18,7 +18,7 @@ The final report contains each of the following:
 **Player Count**
 
 * Total Number of Players
-![Player_count]()
+![player_count](images/player_count.PNG)
 
 **Purchasing Analysis (Total)**
 
