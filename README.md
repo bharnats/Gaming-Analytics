@@ -22,22 +22,22 @@ The final report contains each of the following:
 * ![purchase_analysis](images/purchasing_analysis_total.PNG)
 
 **Gender Demographics**
-* ![purchase_analysis](images/purchasing_analysis_total.PNG)
+* ![gender_demo](images/gender_demo.PNG)
 
 **Purchasing Analysis (Gender)** 
-* ![purchase_analysis](images/purchasing_analysis_total.PNG)
+* ![purchase_analysis_gender](images/purchase_analysis_gender.PNG)
 
 **Age Demographics**
-* ![purchase_analysis](images/purchasing_analysis_total.PNG)
+* ![age_demo](images/age_demo.PNG)
 
 **Top Spenders**
 * Identified the top 5 spenders in the game by total purchase value, then listed (in a table):
-  ![purchase_analysis](images/purchasing_analysis_total.PNG)
+  ![top_spenders](images/top_spenders.PNG)
   
 **Most Popular Items**
 * Identified the 5 most popular items by purchase count, then listed (in a table):
- ![purchase_analysis](images/purchasing_analysis_total.PNG)
+ ![popular_items](images/popular_items.PNG)
  
 **Most Profitable Items**
 * Identified the 5 most profitable items by total purchase value, then listed (in a table):
- ![purchase_analysis](images/purchasing_analysis_total.PNG)
+ ![profitable_items](images/profitable_items.PNG)
