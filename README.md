@@ -2,6 +2,7 @@
 **Objective:**
 Deep dive into the purchase data for the fantasy game ‘Heroes of Pymoli’ launched by an Independent gaming company and provide them with useful business insights to improve revenues and create market differentiation.
 
+**Background** 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
 **Observable Trends and Conclusions Derived:**
@@ -9,8 +10,10 @@ Like many others in its genre, the game is free-to-play, but players are encoura
   *	Our peak age demographic falls between 20-24 (42%) with secondary groups falling between 15-19 (17.80%) and 25-29 (15.48%).
   * Our players are putting in significant cash during the lifetime of their gameplay. Across all major age and gender demographics, the average purchase for a user is roughly $493.
 
-**Programming language used:** Python-Pandas library for Data Munging and Data Analysis
-**Tools Used:** Jupyter Notebook 
+**Programming language used:** 
+* Python-Pandas library for Data Munging and Data Analysis
+**Tools Used:** 
+* Jupyter Notebook 
 
 Generated a report that breaks down the game's purchasing data into meaningful insights.
 The final report contains each of the following:
