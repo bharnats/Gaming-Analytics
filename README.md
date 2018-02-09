@@ -17,10 +17,11 @@ The final report contains each of the following:
 
 **Player Count**
 
-* Total Number of Players
 ![player_count](images/player_count.PNG)
 
 **Purchasing Analysis (Total)**
+
+![purchase_analysis](images/purchase_analysis.PNG)
 
 * Number of Unique Items
 * Average Purchase Price
