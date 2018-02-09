@@ -19,17 +19,21 @@ The final report contains each of the following:
 
 ![player_count](images/player_count.PNG)
 
-**Purchasing Analysis (Total)**
-* ![purchase_analysis](images/purchasing_analysis_total.PNG)
+* **Purchasing Analysis (Total)**
 
-**Gender Demographics**
-* ![gender_demo](images/gender_demo.PNG)
+![purchase_analysis](images/purchasing_analysis_total.PNG)
 
-**Purchasing Analysis (Gender)** 
-* ![purchase_analysis_gender](images/purchase_analysis_gender.PNG)
+* **Gender Demographics**
 
-**Age Demographics**
-* ![age_demo](images/age_demo.PNG)
+![gender_demo](images/gender_demo.PNG)
+
+* **Purchasing Analysis (Gender)** 
+
+![purchase_analysis_gender](images/purchase_analysis_gender.PNG)
+
+* **Age Demographics**
+
+![age_demo](images/age_demo.PNG)
 
 **Top Spenders**
 * Identified the top 5 spenders in the game by total purchase value, then listed (in a table):
