@@ -16,63 +16,28 @@ Generated a report that breaks down the game's purchasing data into meaningful i
 The final report contains each of the following:
 
 **Player Count**
-
 ![player_count](images/player_count.PNG)
 
 **Purchasing Analysis (Total)**
-
 ![purchase_analysis](images/purchasing_analysis_total.PNG)
 
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
-
 **Gender Demographics**
-
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
+![purchase_analysis](images/purchasing_analysis_total.PNG)
 
 **Purchasing Analysis (Gender)** 
-
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Normalized Totals
+![purchase_analysis](images/purchasing_analysis_total.PNG)
 
 **Age Demographics**
-
-* The below each broken into bins of 4 years (i.e. 10, 10-14, 15-19, etc.) 
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Normalized Totals
+![purchase_analysis](images/purchasing_analysis_total.PNG)
 
 **Top Spenders**
-
 * Identified the top 5 spenders in the game by total purchase value, then listed (in a table):
-  * SN
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-
+  ![purchase_analysis](images/purchasing_analysis_total.PNG)
+  
 **Most Popular Items**
-
 * Identified the 5 most popular items by purchase count, then listed (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
-
+ ![purchase_analysis](images/purchasing_analysis_total.PNG)
+ 
 **Most Profitable Items**
-
 * Identified the 5 most profitable items by total purchase value, then listed (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
-
+ ![purchase_analysis](images/purchasing_analysis_total.PNG)
