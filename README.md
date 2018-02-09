@@ -6,9 +6,9 @@ Deep dive into the purchase data for the fantasy game ‘Heroes of Pymoli’ lau
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
 **Observable Trends and Conclusions Derived:**
-  * Of the 1163 active players, the vast majority are male (80%). There also exists, a smaller, but notable proportion of female players (17%).
-  *	Our peak age demographic falls between 20-24 (42%) with secondary groups falling between 15-19 (17.80%) and 25-29 (15.48%).
-  * Our players are putting in significant cash during the lifetime of their gameplay. Across all major age and gender demographics, the average purchase for a user is roughly $493.
+  * Of the 573 active players, the vast majority are male (81%). There also exists, a smaller, but notable proportion of female players (17%).
+  *	Our peak age demographic falls between 20-24 (45.2%) with secondary groups falling between 15-19 (17.45%) and 25-29 (15.18%).
+  * The most popular items are not the most profitable ones. The most popular items based on purchase count are the items whose price is less than or close to the average purchase price. The items that generate the highest revenues are those with high purchase price.
 
 **Programming language used:** 
 * Python-Pandas library for Data Munging and Data Analysis
