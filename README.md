@@ -18,6 +18,7 @@ The final report contains each of the following:
 **Player Count**
 
 * Total Number of Players
+![Player_count]()
 
 **Purchasing Analysis (Total)**
 
