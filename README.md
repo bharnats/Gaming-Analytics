@@ -21,7 +21,7 @@ The final report contains each of the following:
 
 **Purchasing Analysis (Total)**
 
-![purchase_analysis](images/purchase_analysis.PNG)
+![purchase_analysis](images/purchasing_analysis_total.PNG)
 
 * Number of Unique Items
 * Average Purchase Price
