@@ -15,8 +15,9 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 Generated a report that breaks down the game's purchasing data into meaningful insights.
 The final report contains each of the following:
 
-**Player Count**
-* ![player_count](images/player_count.PNG)
+* **Player Count**
+
+![player_count](images/player_count.PNG)
 
 **Purchasing Analysis (Total)**
 * ![purchase_analysis](images/purchasing_analysis_total.PNG)
