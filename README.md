@@ -16,19 +16,19 @@ Generated a report that breaks down the game's purchasing data into meaningful i
 The final report contains each of the following:
 
 **Player Count**
-![player_count](images/player_count.PNG)
+* ![player_count](images/player_count.PNG)
 
 **Purchasing Analysis (Total)**
-![purchase_analysis](images/purchasing_analysis_total.PNG)
+* ![purchase_analysis](images/purchasing_analysis_total.PNG)
 
 **Gender Demographics**
-![purchase_analysis](images/purchasing_analysis_total.PNG)
+* ![purchase_analysis](images/purchasing_analysis_total.PNG)
 
 **Purchasing Analysis (Gender)** 
-![purchase_analysis](images/purchasing_analysis_total.PNG)
+* ![purchase_analysis](images/purchasing_analysis_total.PNG)
 
 **Age Demographics**
-![purchase_analysis](images/purchasing_analysis_total.PNG)
+* ![purchase_analysis](images/purchasing_analysis_total.PNG)
 
 **Top Spenders**
 * Identified the top 5 spenders in the game by total purchase value, then listed (in a table):
