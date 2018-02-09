@@ -1,8 +1,8 @@
 ## Purchase Data Analysis using Python-Pandas
-**Objective:**
+### Objective:
 Deep dive into the purchase data for the fantasy game ‘Heroes of Pymoli’ launched by an Independent gaming company and provide them with useful business insights to improve revenues and create market differentiation.
 
-**Background** 
+### Background 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
 **Observable Trends and Conclusions Derived:**
